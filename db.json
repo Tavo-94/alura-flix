@@ -1,0 +1,117 @@
+{
+  "videos": [
+    {
+      "titulo": "Eiusmod quis eos quitestsetest",
+      "categoria": 1,
+      "imagen": "http://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "Officia commodo non ",
+      "id": "843d8538-f546-42ac-b4ca-217fc1aa2441"
+    },
+    {
+      "titulo": "",
+      "imagen": "",
+      "video": "",
+      "descripcion": "",
+      "id": "423914b6-d822-48c3-90e1-04f0e697fa34",
+      "categoria": null
+    },
+    {
+      "titulo": "",
+      "imagen": "",
+      "video": "",
+      "descripcion": "",
+      "id": "7f05639b-d2be-49c0-9a52-71b90827223b",
+      "categoria": null
+    },
+    {
+      "titulo": "",
+      "imagen": "",
+      "video": "",
+      "descripcion": "",
+      "id": "528d4ea3-0532-4eb5-8070-a5d6aabb8454",
+      "categoria": null
+    },
+    {
+      "titulo": "",
+      "imagen": "",
+      "video": "",
+      "descripcion": "",
+      "id": "1a656bf4-99b7-4c51-991c-99abcccc293d",
+      "categoria": null
+    },
+    {
+      "titulo": "",
+      "imagen": "",
+      "video": "",
+      "descripcion": "",
+      "id": "b0c45695-b0b9-4c67-b2ad-4d773baea03e",
+      "categoria": null
+    },
+    {
+      "titulo": "Aliquid magnam et si",
+      "categoria": 3,
+      "imagen": "https://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "Recusandae Harum ex",
+      "id": "f30bfaa1-17fe-4eaa-8728-52ae8064db70"
+    },
+    {
+      "titulo": "Do cum dolores sed l",
+      "categoria": 1,
+      "imagen": "https://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "Sed qui id ipsum de",
+      "id": "fd711343-ab98-43c2-92a6-168983b9460e"
+    },
+    {
+      "titulo": "Nisi doloribus aut s",
+      "categoria": 1,
+      "imagen": "https://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "Saepe elit sit ut e",
+      "id": "974c9ee0-aab8-4ef5-a93b-c497633cf7fe"
+    },
+    {
+      "titulo": "Perspiciatis aut es",
+      "categoria": 2,
+      "imagen": "https://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "In blanditiis except",
+      "id": "ab56eb90-96f4-4cc9-821e-946a4a826c5c"
+    },
+    {
+      "titulo": "Sint quis ratione i",
+      "categoria": 3,
+      "imagen": "https://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "Amet molestiae ea i",
+      "id": "9086b443-6415-4fb9-8b50-8192f7b692cd"
+    },
+    {
+      "titulo": "Impedit qui et hic ",
+      "categoria": 3,
+      "imagen": "https://img.youtube.com/vi/d5x0JCZbAJs/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=d5x0JCZbAJs",
+      "descripcion": "Adipisicing voluptat",
+      "id": "4fffcc6e-f177-48aa-9a87-3ab8ac445b89"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "front end",
+      "color": "6BD1FF"
+    },
+    {
+      "id": 2,
+      "nombre": "back end",
+      "color": "00C86F"
+    },
+    {
+      "id": 3,
+      "nombre": "innovación y gestión",
+      "color": "FFBA05"
+    }
+  ]
+}

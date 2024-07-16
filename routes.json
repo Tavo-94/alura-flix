@@ -1,0 +1,8 @@
+{
+    "/api/videos": "/users",
+    "/api/videos/:id": "/users/:id",
+    "/api/categorias": "/users/:id",
+
+    "/api/categorias/:id": "/users/:id"
+
+}
